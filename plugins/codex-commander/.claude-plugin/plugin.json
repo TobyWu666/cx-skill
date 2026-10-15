@@ -1,0 +1,13 @@
+{
+  "name": "codex-commander",
+  "version": "0.1.0",
+  "description": "讓 Claude 當指揮官：拆任務、寫 brief、派工給 OpenAI Codex CLI，並自己驗收結果。",
+  "author": {
+    "name": "TobyWu666",
+    "url": "https://github.com/TobyWu666"
+  },
+  "homepage": "https://github.com/TobyWu666/cx-skill",
+  "repository": "https://github.com/TobyWu666/cx-skill",
+  "license": "MIT",
+  "keywords": ["codex", "orchestration", "delegation"]
+}

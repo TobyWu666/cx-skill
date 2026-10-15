@@ -1,0 +1,20 @@
+{
+  "name": "cx-skill",
+  "owner": {
+    "name": "TobyWu666",
+    "url": "https://github.com/TobyWu666"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for orchestrating other coding agents."
+  },
+  "plugins": [
+    {
+      "name": "codex-commander",
+      "source": "./plugins/codex-commander",
+      "description": "讓 Claude 當指揮官：拆任務、寫 brief、派工給 OpenAI Codex CLI，並自己驗收結果。",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["codex", "orchestration", "delegation"]
+    }
+  ]
+}
